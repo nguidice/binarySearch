@@ -1,5 +1,5 @@
 # binarySearch
-This repository contains a simple implementation of the binary search algorithm in C++. The program efficiently searches for specific values within a sorted array using the binary search technique. Binary search is a classic algorithm known for its efficiency, operating in O(log n) time complexity, which makes it ideal for searching through large datasets.  
+This repository contains a simple implementation of the binary search algorithm in C++. The program efficiently searches for specific values within a sorted array using the binary search technique. The Binary search algorithm is known for its efficiency, operating in O(log n) time complexity, which makes it ideal for searching through large datasets.  
 
 Sample Input:  
   6 # The number of pre-sorted numbers  
