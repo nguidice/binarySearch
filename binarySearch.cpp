@@ -1,5 +1,5 @@
 //Nicholas Guidice
-//CS 375 Project 1 "Binary Search"
+//"Binary Search"
 
 #include <iostream>
 #include <vector>
